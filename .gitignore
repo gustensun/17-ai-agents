@@ -1,0 +1,16 @@
+# Your private business brain. Created by the setup interview. Never commit it to a public repo.
+my-business/
+
+# Agents installed for Claude Code during setup (they contain your answers)
+.claude/agents/
+
+# Optional link that lets Claude Code find the skills on its own (made during setup)
+.claude/skills
+
+# Local files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*

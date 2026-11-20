@@ -1,0 +1,548 @@
+# Winning products: 100 tool ideas
+
+Live gallery: [digitalproductideas.pplx.app](https://digitalproductideas.pplx.app/). Search by niche, filter by tool type and try two sample inputs for every tool.
+
+This file is the written index of the same 100 ideas, so an agent can use them without opening the site. One tool per niche, 100 niches. Each entry gives the niche, the tool type, what it does, why someone would pay, why they'd come back, the offer around it, a sample input and output, and the safeguard where the topic needs one.
+
+## Rules
+
+1. These are offer concepts. They aren't proof of demand and they don't promise results. Check demand with [deep-market-research](../skills/deep-market-research/SKILL.md) and [outlier-research](../skills/outlier-research/SKILL.md) before the owner builds anything.
+2. Build inside the owner's expertise. Health, money and relationship tools need safeguards and qualified support. 88 of the 100 ideas carry a safeguard line: keep it when you adapt the idea, and add what the owner's field needs.
+3. The samples are made-up examples, not live AI. Every number in them is an illustration. Numbers on a real page come from the owner's proof bank and follow house rule 11 in [CORE.md](../brain/CORE.md).
+4. Borrow the shape and write the content for the owner's customer: the same kind of tool, their customer's situation, their method, their words. Don't copy the offer names.
+5. The product itself goes through [digital-product-fastlane](../skills/digital-product-fastlane/SKILL.md), and the offer through [winning-offer-formula](../skills/winning-offer-formula/SKILL.md).
+
+## How a tool becomes an offer
+
+A tool does something useful: it turns the customer's situation into a plan, a draft, a calculation or a next action. The offer around it has three parts, the same as steps 4 to 6 of the Fastlane:
+
+1. **The tool.** A planner, builder, calculator or checklist that finishes one specific task.
+2. **The method.** Short screen-share lessons that show how to use the tool on the bigger problem.
+3. **The support.** Templates, feedback and accountability at the points where people get stuck.
+
+Each "Offer around it" line below packages the tool with some mix of teaching, templates and review or support.
+
+## How to pick an idea
+
+1. Start from the customer. Read Brain sections 3 and 4: what does the owner's customer do again and again, and where do they get stuck?
+2. Search this file for the owner's niche, then for its neighbours. The cleaning quote calculator works for window cleaners; the wedding timeline builder works for a conference run-of-show.
+3. Choose the type by the job. A planner for a schedule or routine, a builder for a draft or a document, a calculator for a number they decide with, a checklist for steps in order.
+4. Write two sample inputs and outputs for the owner's customer. If an output isn't useful on its own, pick another idea.
+5. Write the "why they'd pay" and "why they'd come back" lines in the customer's words. A tool that gets used every week is the easiest to sell monthly.
+6. Package it with the three parts above, then hand it to the Research agent to check demand.
+
+## What the list covers
+
+- **Markets.** Business and money 43, relationships and life 22, skills and hobbies 20, health and fitness 15. The first three are the wealth, relationships and health markets in the Fastlane.
+- **Tool types.** Builders and practice tools 39, planners 36, calculators 16, checklists 9.
+
+## Find by tool type
+
+- **Planners (36):** #1, #7, #11, #15, #16, #20, #22, #26, #28, #42, #44, #45, #46, #47, #48, #49, #52, #54, #61, #63, #64, #65, #66, #68, #69, #72, #73, #76, #79, #80, #81, #82, #84, #86, #89, #96.
+- **Builders and practice tools (39):** #3, #4, #6, #8, #9, #10, #12, #17, #19, #21, #24, #25, #27, #29, #30, #32, #40, #41, #50, #51, #55, #58, #59, #60, #62, #67, #71, #74, #75, #77, #83, #85, #87, #88, #90, #92, #95, #97, #98.
+- **Calculators (16):** #2, #5, #13, #23, #31, #33, #34, #35, #36, #37, #38, #56, #70, #94, #99, #100.
+- **Checklists (9):** #14, #18, #39, #43, #53, #57, #78, #91, #93.
+
+## The 100 tools
+
+Each entry: the tool, its niche and type, what it does, why people pay and come back, the offer around it, one sample input and output, and the safeguard where the topic needs one. The live gallery has a second example for every tool. Every sample is made up.
+
+### Business and money (43)
+
+- **#1. Content Calendar Builder** (content creation, planner). Turn one offer and a few real stories into a week of posts. Helps people show up with a message that leads somewhere.
+  - Why they'd pay: They have expertise, but deciding what to post keeps eating the time they could spend serving customers. Why they'd come back: Every new offer, customer question and personal story becomes material for the next week.
+  - Offer around it: The Consistent Creator System: the tool, your content framework, story prompts and monthly content feedback.
+  - Example: A coach launching a group. Input: Career coach, group program. Output, "Your next three posts": Mon: Story: the promotion you didn't get; Wed: Teach: a three-question career audit; Fri: Invite: join the career planning workshop.
+- **#2. Landscaping Quote Calculator** (landscaping services, calculator). Turn labor, materials and a target margin into a transparent project estimate. Helps people quote the job with the costs in view.
+  - Why they'd pay: Guessing a price can leave a busy contractor doing work that doesn't cover the business's real costs. Why they'd come back: Every new job has different dimensions, materials, crew time and access conditions.
+  - Offer around it: The Profitable Quote System: the calculator, estimating lessons, scope templates and quote-review support.
+  - Example: A small planting job. Input: Labor $600 + materials $300 + overhead $100. Output, "Illustrative quote, 25% gross margin": Cost basis: $1,000; Formula: $1,000 ÷ 0.75; Estimate: $1,333.33.
+  - Safeguard: Examples exclude tax, contingency and unlisted costs. Margin is not markup. The seller must verify the scope and local requirements.
+- **#3. Book Outline Builder** (authors & publishing, builder). Turn a reader's problem and your method into a usable chapter-by-chapter outline. Helps people start with a book that has a clear job to do.
+  - Why they'd pay: They have years of ideas in notes, but no structure that turns those ideas into a book someone can follow. Why they'd come back: They return to outline chapters, develop examples and check whether the draft delivers the book's promise.
+  - Offer around it: The First Useful Book System: the builder, your writing method, chapter templates and editorial feedback.
+  - Example: A practical business book. Input: Reader: freelancers with unpredictable work. Output, "Three-part book structure": Part I: Diagnose where your next client actually comes from; Part II: Build one repeatable outreach routine; Part III: Deliver well and earn the next introduction.
+- **#4. App Spec Builder** (vibe coding, builder). Turn a rough app idea into screens, user flows and a testable build brief. Helps people give an AI builder a clearer job to do.
+  - Why they'd pay: They keep rebuilding because the original prompt never clarified who the app was for or how the core flow should work. Why they'd come back: Every feature needs a brief, acceptance checks and a decision about what to leave out.
+  - Offer around it: The First Working App System: the builder, your build workflow, starter templates and implementation reviews.
+  - Example: A coach's client portal. Input: Coach, client check-ins, first version. Output, "Your first build brief": User flow: Client signs in > submits check-in > coach reviews; Core screens: Login, client check-in, coach review queue; Acceptance: Clients cannot access another client's records.
+  - Safeguard: A spec is not a security audit. Test authorization, privacy, data handling and integrations before production.
+- **#5. E-commerce Margin Calculator** (online stores, calculator). Show what is left from an order after product, fulfillment and acquisition costs. Helps people see whether an order is worth acquiring.
+  - Why they'd pay: A store can show sales while losing money on each order. Owners want the costs visible before they spend more. Why they'd come back: They compare new prices, shipping policies, bundles and ad-cost scenarios.
+  - Offer around it: The Know Your Numbers System: the calculator, unit-economics lessons, cost templates and monthly numbers reviews.
+  - Example: A single-product order. Input: Revenue $60, product $18, shipping $7, fees $2. Output, "Illustrative per-order contribution": Before ads: $33; Ad cost: $20; After ads: $13.
+  - Safeguard: Contribution is not net profit. Examples exclude returns, tax, fixed overhead and other unlisted costs.
+- **#6. YouTube Video Planner** (youtube growth, builder). Connect a viewer problem to a title, opening and useful video outline. Helps people record a video with a clear reason to click and keep watching.
+  - Why they'd pay: They don't want to spend hours filming a topic that never had a strong viewer promise. Why they'd come back: Each upload creates a new planning cycle, followed by a review of actual audience response.
+  - Offer around it: The Useful Channel System: the planner, title and thumbnail lessons, script templates and video feedback.
+  - Example: A beginner tutorial. Input: Audience: new funnel builders. Output, "One problem, one useful video": Title: Build Your First Sales Funnel: The 3 Pages You Need; Opening: Show the finished funnel before teaching the steps; Outline: Offer > page flow > working checkout test.
+  - Safeguard: Planning does not guarantee views, subscribers or sales. Use actual channel data to improve subsequent videos.
+- **#7. Weekly Priority Planner** (productivity, planner). Turn a crowded task list into a realistic week with clear priorities. Helps people finish the work that matters without overfilling the calendar.
+  - Why they'd pay: They already have a to-do app. What they're missing is a way to choose what deserves their limited time. Why they'd come back: Every week brings new commitments, unfinished tasks and capacity decisions.
+  - Offer around it: The Focused Week System: the planner, your prioritization method, planning templates and a weekly review habit.
+  - Example: A solo business owner. Input: 12 tasks, 3 focus blocks, one launch. Output, "Protect the important work": Priority: Finish the checkout and test a purchase; Schedule: Two 90-minute build blocks before admin; Defer: New logo ideas and nonessential page edits.
+- **#8. Sales Page Copy Builder** (copywriting, builder). Turn an offer brief and real customer language into an editable sales-page draft. Helps people explain the offer clearly enough for the right person to decide.
+  - Why they'd pay: The blank page is expensive when the offer is ready but the message still sounds vague or generic. Why they'd come back: New offers, objections and customer feedback create reasons to revise and test the copy.
+  - Offer around it: The Clear Offer Copy System: the builder, your sales-page framework, worked examples and expert draft reviews.
+  - Example: A meal-planning offer. Input: Busy parents, weekly menu, simple prep. Output, "A first-pass message": Promise: Know what you're cooking before the week begins; Mechanism: Choose your meals, reuse ingredients and get a list; Next step: Build your first weekly dinner plan.
+  - Safeguard: Drafts need human review. Never fabricate testimonials, guarantees, scarcity, credentials or performance claims.
+- **#9. Brand Asset Builder** (graphic design, builder). Turn brand rules and a campaign brief into reusable asset specifications. Helps people create work that looks like it belongs to the same business.
+  - Why they'd pay: Their posts don't match, and they explain their brand from scratch for every new design. Why they'd come back: Every campaign needs fresh assets, while the saved brand rules keep the work consistent.
+  - Offer around it: The Consistent Brand Kit: the builder, editable templates, your design method and visual feedback.
+  - Example: A calm wellness brand. Input: Warm neutrals, sage, workshop promotion. Output, "Your campaign asset brief": Layout: Lead with the workshop outcome, then the date; System: One type family, generous space, one sage accent; Formats: Square post, portrait story and email header.
+  - Safeguard: This sample produces a design brief, not finished artwork. A production version can pair it with an approved template or rendering workflow.
+- **#10. Agency Offer & Proposal Builder** (agency business, builder). Translate a client's problem into a defined scope, deliverables and proposal. Helps people sell work with clearer boundaries before delivery starts.
+  - Why they'd pay: Vague projects lead to long proposals, awkward pricing conversations and revisions nobody budgeted for. Why they'd come back: Each qualified client needs a tailored scope, timeline and approval process.
+  - Offer around it: The Productized Agency System: the builder, proposal templates, pricing lessons and scope-review support.
+  - Example: A local service client. Input: Plumber, missed inquiries, booking flow. Output, "A proposal scope": Deliver: Inquiry page, booking flow and follow-up templates; Client input: Approved services, coverage area and availability; Acceptance: Submit a test inquiry and confirm every handoff.
+- **#11. Funnel Journey Planner** (funnels, planner). Match an offer, audience and traffic source to a clear customer journey. Helps people build the pages the buyer actually needs.
+  - Why they'd pay: They don't want another beautiful page that sends visitors into a confusing or unfinished buying process. Why they'd come back: Different offers and traffic temperatures need different journeys, follow-ups and conversion tests.
+  - Offer around it: The Working Funnel System: the planner, your funnel frameworks, page templates and launch QA.
+  - Example: An entry-level digital product. Input: Cold audience, practical template kit. Output, "A simple buying journey": Discover: Useful demo shows the template in action; Decide: Sales page explains fit, contents and limitations; Use: Checkout > instant access > first-use walkthrough.
+- **#12. Digital Product Builder** (digital products, builder). Turn a repeatable method into a small product with a clear first-use experience. Helps people package useful expertise without building an endless course.
+  - Why they'd pay: They have knowledge to sell but keep getting stuck between too many ideas and a huge curriculum. Why they'd come back: Customer questions reveal the next template, improvement or supporting tool to add.
+  - Offer around it: The First Useful Product System: the builder, your offer-design method, delivery templates and launch feedback.
+  - Example: A wedding photographer. Input: Expertise: preparing couples for their shoot. Output, "A focused first product": Customer: Couples preparing for engagement photos; Tool: Shoot preparation planner and shot checklist; Support: Short walkthrough and example timelines.
+- **#13. Household Budget Planner** (personal money, calculator). Put income, essential costs and savings priorities into a visible monthly plan. Helps people make money decisions with less guesswork.
+  - Why they'd pay: They want to know what is already committed before saying yes to another expense. Why they'd come back: Bills, income and priorities change, so the plan has a practical monthly use.
+  - Offer around it: The Money Clarity System: the planner, budgeting lessons, review prompts and qualified support where needed.
+  - Example: A monthly household plan. Input: Take-home $4,000, bills & living costs $2,900. Output, "Illustrative monthly allocation": After essentials: $1,100; Planned savings: $500; Unallocated: $600.
+  - Safeguard: Educational budgeting only. Not individualized investment, debt, tax or legal advice; use actual verified expenses.
+- **#14. Rental Readiness Planner** (short-term rentals, checklist). Build an opening checklist for a short-term rental before accepting a booking. Helps people spot operational gaps before a guest does.
+  - Why they'd pay: A furnished property still needs clear procedures, guest information and local compliance checks. Why they'd come back: Each property, season and guest issue creates useful updates to the operating checklist.
+  - Offer around it: The Guest-Ready Rental System: the planner, hosting SOPs, message templates and property-readiness reviews.
+  - Example: Preparing a first property. Input: First listing, pre-launch review. Output, "Before you open the calendar": 1. Verify local permission, insurance and safety requirements. 2. Test access instructions and essential equipment. 3. Document cleaning, restocking and emergency contacts.
+  - Safeguard: Not legal advice or a booking-platform integration. Local regulations and safety requirements must be verified by the operator.
+- **#15. Real Estate Follow-up Planner** (real estate services, planner). Turn a consent-based contact list into relevant, timely follow-up tasks. Helps people remember the next helpful conversation.
+  - Why they'd pay: Good relationships are easy to neglect when inquiry notes live in different messages and spreadsheets. Why they'd come back: Each conversation changes the contact's needs and the appropriate next action.
+  - Offer around it: The Helpful Follow-up System: the planner, conversation templates, CRM routines and message reviews.
+  - Example: A homeowner planning ahead. Input: Opted-in contact, considering a move in six months. Output, "A relevant follow-up plan": Now: Send the moving-preparation checklist they requested; Next: Ask when a follow-up would be helpful; Record: Save their preferred timing and contact channel.
+  - Safeguard: Respect contact consent, fair-housing rules and local licensing obligations. No harvested lead lists or automatic unsolicited messages.
+- **#16. Pool Service Visit Planner** (pool service businesses, planner). Group recurring visits by area and keep each property's service notes together. Helps people start the day with a clear service list.
+  - Why they'd pay: Scattered schedules and missing notes create avoidable trips, missed tasks and poor handoffs. Why they'd come back: Recurring visits, access changes and equipment issues keep the planner relevant.
+  - Offer around it: The Organized Service Week: the planner, visit checklists, customer templates and scheduling lessons.
+  - Example: Grouping a service day. Input: Three consenting customers, north area. Output, "A manually grouped visit list": Stop 1: Cedar Lane: confirm access instructions; Stop 2: Lake Road: review last visit's equipment note; Stop 3: Birch Court: complete checklist and record findings.
+  - Safeguard: Sample planning only, not map-based route optimization. Pool chemistry and equipment work require appropriate training and local safety procedures.
+- **#17. Product Test Planner** (e-commerce product research, builder). Turn a product hunch into a small test with a budget and a decision rule. Helps people learn before buying a large amount of inventory.
+  - Why they'd pay: They want to separate personal excitement from evidence that the intended customer wants the product. Why they'd come back: Every new product, angle and customer segment needs its own test.
+  - Offer around it: The Evidence Before Inventory System: the planner, research templates, test lessons and result reviews.
+  - Example: A reusable lunch container. Input: New product idea, interviews before inventory. Output, "Your first validation test": Hypothesis: Commuters struggle with leaking lunch containers; Test: Interview target buyers about recent real experiences; Decision: Proceed only if the problem is repeated and important.
+  - Safeguard: A test plan does not establish demand on its own. Collect real evidence and honor consumer protections for pilots or preorders.
+- **#18. Local Business Profile Checklist** (local business visibility, checklist). Guide an owner through the details a customer needs on a business profile. Helps people make it easier for a local customer to understand and contact them.
+  - Why they'd pay: Outdated hours, missing service details and confusing contact information create unnecessary friction. Why they'd come back: Opening hours, services, photos and customer questions change over time.
+  - Offer around it: The Clear Local Presence System: the checklist, profile-editing tutorials, photo briefs and periodic reviews.
+  - Example: A neighborhood salon. Input: Owner-led profile review. Output, "Check the customer essentials": 1. Confirm business name, address, phone and hours. 2. Describe the services customers can actually book. 3. Add current, representative photos with permission.
+  - Safeguard: Guided self-review, not a live platform audit. Do not promise rankings, fabricate reviews or imply platform affiliation.
+- **#19. Sales Conversation Practice** (sales & closing, builder). Rehearse discovery questions and honest responses to common objections. Helps people enter a sales conversation prepared to listen.
+  - Why they'd pay: Knowing the product doesn't automatically make someone comfortable asking questions or discussing fit and price. Why they'd come back: Different offers and real call feedback create new practice scenarios.
+  - Offer around it: The Confident Sales Conversation: the practice tool, your discovery method, call-review worksheets and coaching feedback.
+  - Example: A prospect says "too expensive". Input: Practice scenario, implementation service. Output, "A fit-first response": Acknowledge: It makes sense to look carefully at the investment; Explore: Is the concern the total cost, timing or expected value?; Clarify: Review the agreed scope without pressuring a decision.
+  - Safeguard: Curated role-play, not an autonomous sales agent. Do not invent urgency or use pressure to override a buyer's boundaries.
+- **#20. Email Sequence Builder** (email marketing, planner). Turn an opt-in promise into a useful welcome sequence with a clear next step. Helps people follow through after someone joins their list.
+  - Why they'd pay: They worked to earn a subscriber but have no thoughtful way to deliver the promised help and introduce the offer. Why they'd come back: New lead magnets, products and customer questions need fresh sequences.
+  - Offer around it: The Useful Email System: the builder, email templates, voice guidance and sequence reviews.
+  - Example: A free dinner-planning guide. Input: Opt-in: five easy family dinners. Output, "A three-email welcome": Email 1: Deliver the guide and help them choose one dinner; Email 2: Show how to reuse ingredients across meals; Email 3: Invite them to try the weekly meal planner.
+  - Safeguard: Send only with appropriate consent and unsubscribe controls. All drafts need review before sending.
+- **#21. One-Page Strategy Builder** (business strategy, builder). Put the customer, offer and next growth experiment on one clear page. Helps people make fewer scattered business decisions.
+  - Why they'd pay: They have a collection of ideas but no shared filter for what deserves attention next. Why they'd come back: Quarterly reviews and new customer evidence change the strategy.
+  - Offer around it: The Focused Business Plan: the builder, decision frameworks, example plans and facilitated review sessions.
+  - Example: A specialist service business. Input: Designer, wants repeatable projects. Output, "A focused strategy draft": Customer: Independent clinics needing clearer booking pages; Offer: A fixed-scope booking-page redesign; Experiment: Interview five suitable owners before building the package.
+- **#22. Career Portfolio Planner** (careers & professional skills, planner). Map a target role to a practical project, evidence checklist and interview story. Helps people show what they can do instead of only listing what they studied.
+  - Why they'd pay: They've taken courses but still struggle to demonstrate job-relevant work. Why they'd come back: Each project and application reveals evidence gaps and stories worth refining.
+  - Offer around it: The Show Your Skills System: the planner, project briefs, portfolio templates and qualified career feedback.
+  - Example: An aspiring data engineer. Input: Target: junior role, one portfolio project. Output, "Build evidence of the work": Project: Create a small pipeline using a public dataset; Evidence: Document tests, data quality checks and trade-offs; Story: Explain the problem, your decisions and limitations.
+  - Safeguard: No employment guarantee or fabricated experience. Label personal projects clearly and protect employer data.
+- **#23. Art Pricing & Listing Builder** (artists & creative businesses, calculator). Combine time, materials and selling costs into a pricing starting point. Helps people list work with a clearer understanding of what went into it.
+  - Why they'd pay: Pricing feels personal when the creator has no way to separate production cost from positioning and buyer demand. Why they'd come back: Every new piece, edition and sales channel changes the economics and listing details.
+  - Offer around it: The Confident Art Listing Kit: the builder, pricing lessons, listing templates and portfolio feedback.
+  - Example: An original illustration. Input: Materials $25, 5 hours at $30, packing $10. Output, "Illustrative cost-based starting point": Production basis: $185; 10% selling fee: Price = $185 ÷ 0.90; Break-even basis: $205.56.
+  - Safeguard: This is a limited cost basis, not a market valuation or final price. Examples exclude tax, overhead and additional profit.
+- **#24. Podcast Episode Builder** (podcasting, builder). Turn a listener problem and a guest's expertise into a focused episode brief. Helps people record a conversation with a clear listener takeaway.
+  - Why they'd pay: Interesting people still need a focused topic. A brief prevents the recording from drifting through a generic biography. Why they'd come back: Each guest and audience question creates a new episode to prepare.
+  - Offer around it: The Useful Podcast System: the builder, interview frameworks, production checklists and episode feedback.
+  - Example: An interview with a specialist. Input: Guest: local business owner, audience: beginners. Output, "Build the episode around a decision": Promise: How to choose the first service to offer; Questions: Ask about a real trade-off, mistake and decision; Takeaway: Give listeners a small exercise to try afterward.
+- **#25. Newsletter Issue Builder** (newsletter publishing, builder). Turn a useful observation, lesson and offer into a coherent newsletter issue. Helps people send something worth reading without assembling it from scratch.
+  - Why they'd pay: They have scattered ideas but no repeatable way to turn them into a clear issue. Why they'd come back: Each week supplies new customer questions, stories and lessons.
+  - Offer around it: The Useful Weekly Letter: the builder, editorial templates, voice examples and draft feedback.
+  - Example: A creator sharing a lesson. Input: Real story: a launch question customers kept asking. Output, "A focused issue structure": Lead: Describe the question and why it mattered; Lesson: Explain the change you made and its limits; Invite: Link to a relevant resource or offer without pressure.
+  - Safeguard: Use consent-based mailing lists, accurate claims and proper attribution. Draft generation does not send email.
+- **#26. Workshop Run-of-Show Builder** (webinars & teaching events, planner). Turn a learning outcome into a timed teaching plan with a participant exercise. Helps people run a session where people leave having done something useful.
+  - Why they'd pay: A slide deck can fill time without helping participants apply the idea. Why they'd come back: Every workshop, audience and delivery format needs a tailored session plan.
+  - Offer around it: The Teach Through Doing System: the builder, facilitation lessons, exercise templates and rehearsal feedback.
+  - Example: A 45-minute practical workshop. Input: Outcome: participants draft one clear offer. Output, "A session built around application": 10 min: Explain the method with one worked example; 25 min: Guide participants through drafting and reviewing; 10 min: Answer questions and choose a next action.
+- **#27. Course-to-Tool Mapper** (ai-powered education, builder). Turn a course module into a tool concept with inputs, outputs and a support layer. Helps people deliver the result through use rather than more lessons to watch.
+  - Why they'd pay: They want students to implement the method, but a video library leaves too much of the work to the learner. Why they'd come back: Every module and student bottleneck reveals another feature or improvement.
+  - Offer around it: The Transformational Product Workshop: the mapper, your IP-to-tool method, build templates and implementation reviews.
+  - Example: A module on weekly planning. Input: Existing course IP, students struggle to prioritize. Output, "Turn the lesson into a tool": Input: Tasks, deadlines and realistic capacity; Output: A prioritized week with trade-offs made visible; Support: A short method walkthrough and weekly review.
+  - Safeguard: Use owned or licensed teaching material. An AI interface alone does not establish accuracy, demand or successful transformation.
+- **#28. Coaching Action Plan Builder** (coaching delivery, planner). Turn approved session notes into a few clear client actions and review prompts. Helps people leave coaching knowing what to do before the next session.
+  - Why they'd pay: Insights lose value when the client cannot translate them into realistic next steps. Why they'd come back: Each session and check-in creates a new action plan to review together.
+  - Offer around it: The Between-Session Progress System: the builder, action templates, progress check-ins and human coaching.
+  - Example: A business coaching session. Input: Client-approved notes, one priority. Output, "A focused follow-through plan": Action: Draft the offer brief discussed in the session; Scope: Complete the customer and problem sections first; Review: Bring open questions to the agreed check-in.
+  - Safeguard: Use consented notes and coach review. Do not replace licensed medical or mental-health care, and do not promise client outcomes.
+- **#29. Discovery Workshop Designer** (consulting, builder). Turn a client decision into a workshop agenda, questions and an expected artifact. Helps people facilitate a meeting that produces something the client can use.
+  - Why they'd pay: Clients pay for clarity and progress, not another conversation with no decision at the end. Why they'd come back: Every client problem needs a different set of questions and decision criteria.
+  - Offer around it: The Decision Workshop Kit: the designer, facilitation frameworks, templates and peer rehearsal.
+  - Example: A client choosing a market. Input: Decision: which audience to test first. Output, "A focused discovery workshop": Inputs: Existing customer evidence and team constraints; Exercise: Compare candidate audiences against agreed criteria; Output: One test audience, assumptions and a validation plan.
+- **#30. SOP Builder for Virtual Assistants** (virtual assistance & operations, builder). Turn a recorded, approved process into a step-by-step SOP with review checkpoints. Helps people delegate repeatable work without rewriting instructions every time.
+  - Why they'd pay: Business owners want the task done consistently without becoming the help desk for every small question. Why they'd come back: Processes and tools change, so the SOP needs ongoing review and improvement.
+  - Offer around it: The Clear Delegation System: the builder, process-capture lessons, SOP templates and implementation checks.
+  - Example: Preparing a weekly report. Input: Approved process, data access already authorized. Output, "A useful SOP outline": Input: Confirm the reporting period and approved data source; Steps: Collect the required fields and complete the template; Review: Check totals and obtain approval before sharing.
+  - Safeguard: Do not embed passwords or private keys in SOPs. Preserve access controls, consent and approval gates for consequential actions.
+- **#31. Cleaning Quote Calculator** (residential cleaning businesses, calculator). Turn a job's estimated hours, supplies and travel costs into a pricing starting point. Helps people quote a visit with the labor and costs accounted for.
+  - Why they'd pay: A flat guess can hide the difference between a straightforward job and one with much more work. Why they'd come back: Property size, service scope and travel change with each quote.
+  - Offer around it: The Clear Cleaning Quote Kit: the calculator, estimating lessons, scope templates and quote reviews.
+  - Example: A routine home clean. Input: 4 hours at $25 cost, supplies $12, travel $8. Output, "Illustrative 25% gross-margin quote": Recorded job cost: $120; Formula: $120 ÷ 0.75; Quote basis: $160.
+  - Safeguard: Examples exclude unlisted overhead, taxes and contingency. Confirm scope, access, surface compatibility and safety before quoting.
+- **#32. Car Detailing Package Builder** (mobile detailing, builder). Turn a customer's vehicle condition and needs into a clear service-scope draft. Helps people sell the right level of work without vague package promises.
+  - Why they'd pay: Customers need to understand what is included, what is excluded and what requires inspection. Why they'd come back: Each vehicle and customer goal calls for a different scope and approval.
+  - Offer around it: The Clear Detailing Offer Kit: the builder, inspection templates, service explanations and business coaching.
+  - Example: An everyday interior refresh. Input: Condition to inspect, customer wants routine cleaning. Output, "A bounded package draft": Include: List the approved routine interior tasks; Exclude: State specialist stain or damage work separately; Confirm: Inspect condition and agree price before work starts.
+  - Safeguard: No guaranteed restoration results or damage diagnosis. Follow product, environmental and vehicle-surface safety guidance.
+- **#33. Salon Appointment Profit Calculator** (salons & beauty services, calculator). Show a service's contribution after recorded product and labor costs. Helps people compare appointment economics without looking only at the ticket price.
+  - Why they'd pay: A busy calendar can hide services that consume too much time for the contribution they leave. Why they'd come back: Prices, durations and product costs change, making regular review useful.
+  - Offer around it: The Profitable Appointment Kit: the calculator, costing lessons, service worksheets and owner reviews.
+  - Example: A 90-minute service. Input: Price $120, product cost $20, labor cost $45. Output, "Illustrative service contribution": After listed costs: $55; Appointment duration: 1.5 hours; Contribution / hour: $36.67.
+  - Safeguard: Contribution is not net profit. Include other relevant overhead, fees, tax and nonbillable time before business decisions.
+- **#34. Restaurant Menu Cost Calculator** (restaurants & cafés, calculator). Compare recorded ingredient cost per portion with a menu price. Helps people see food-cost assumptions clearly before updating the menu.
+  - Why they'd pay: Owners want to know which ingredient changes are affecting the economics of a dish. Why they'd come back: Supplier prices, portion sizes and menu changes create recurring calculations.
+  - Offer around it: The Clear Menu Numbers System: the calculator, recipe-costing lessons, portion sheets and review sessions.
+  - Example: A lunch dish. Input: Ingredient cost $4.20, price $14. Output, "Illustrative ingredient-only economics": Ingredient share: 30%; Price less ingredients: $9.80; Menu price: $14.
+  - Safeguard: Not net profit or a recommended price. Labor, waste, fees, tax and overhead are excluded unless entered.
+- **#35. Bakery Batch Planner** (bakeries & cottage food businesses, calculator). Convert confirmed orders and batch yield into a production quantity plan. Helps people prepare enough product without guessing the number of batches.
+  - Why they'd pay: They need to translate individual orders into production work and understand any extra output. Why they'd come back: Order quantities and product mixes change every production day.
+  - Offer around it: The Organized Bake Day System: the planner, production templates, scheduling lessons and baker-business support.
+  - Example: A cookie order. Input: Confirmed order: 90 cookies, yield: 24 per batch. Output, "Round up to whole batches": Batches needed: 4; Expected output: 96; Extra units: 6.
+  - Safeguard: Yield is an assumption to verify in production. Check food-business rules, allergens, safe storage and actual capacity.
+- **#36. Event Break-Even Calculator** (workshops & paid events, calculator). Calculate how many paid seats cover an event's listed fixed and per-person costs. Helps people check the event economics before committing to a venue.
+  - Why they'd pay: A full-looking room does not necessarily mean the event covers its costs. Why they'd come back: Ticket prices, venues and participant numbers change from one event to the next.
+  - Offer around it: The Viable Event Plan: the calculator, cost templates, pricing lessons and launch reviews.
+  - Example: A small paid workshop. Input: Fixed cost $900, ticket $60, variable cost $15. Output, "Contribution per seat: $45": Calculation: $900 ÷ $45; Capacity assumption: At least 20 seats; Break-even seats: 20.
+  - Safeguard: Not a sales forecast. Include all relevant fees, refunds, taxes and costs, and verify venue capacity.
+- **#37. Freelance Capacity Calculator** (freelancers & service delivery, calculator). Convert available work time and delivery estimates into a realistic client-load limit. Helps people avoid selling more work than the week can hold.
+  - Why they'd pay: They want growth without finding out too late that every evening has become delivery time. Why they'd come back: Project complexity, support load and personal availability change over time.
+  - Offer around it: The Sustainable Workweek System: the calculator, scope lessons, time templates and workload reviews.
+  - Example: A repeatable monthly service. Input: 30 hours/week, 10 non-delivery, 5 hours/client. Output, "Illustrative weekly client capacity": Delivery hours: 20; Hours per client: 5; Whole-client capacity: 4.
+  - Safeguard: Capacity depends on accurate estimates and service cadence. Allow for illness, revisions, sales work and contingency.
+- **#38. Business Cash Runway Calculator** (small-business cash planning, calculator). Show how long unrestricted cash lasts under a stated monthly net-burn assumption. Helps people see the time implied by their current cash plan.
+  - Why they'd pay: They need a simple scenario view before deciding which costs and commitments to review. Why they'd come back: Cash balances, collections and expenses change each month.
+  - Offer around it: The Cash Clarity System: the calculator, cash-planning worksheets, scenario lessons and qualified financial review.
+  - Example: A business drawing down cash. Input: Cash $30,000, monthly outflow $12,000, inflow $7,000. Output, "Constant monthly assumptions": Net monthly burn: $5,000; Calculation: $30,000 ÷ $5,000; Estimated runway: 6 months.
+  - Safeguard: Simplified scenario, not a forecast or financial advice. Excludes timing, restricted cash, obligations and changing conditions unless modeled.
+- **#39. Grant Application Organizer** (nonprofits & grant writing, checklist). Turn an actual funder's requirements into a document checklist and evidence map. Helps people assemble an application without losing track of missing pieces.
+  - Why they'd pay: They want fewer preventable omissions and less time hunting for the same organizational documents. Why they'd come back: Each funder and application cycle has different requirements.
+  - Offer around it: The Grant-Ready Organization Kit: the organizer, evidence templates, writing lessons and qualified application review.
+  - Example: Preparing a first application. Input: Actual funder instructions supplied. Output, "Map requirements before drafting": 1. Verify eligibility, deadline and submission rules. 2. Match each question to real evidence and an owner. 3. List missing documents and review responsibilities.
+  - Safeguard: No guaranteed funding, invented impact data or automatic submission. Follow the funder's rules and protect beneficiary information.
+- **#40. Sponsorship Proposal Builder** (creators & sponsorships, builder). Turn verified audience information and a sponsor's fit into a concrete partnership proposal. Helps people sell a defined collaboration instead of vague exposure.
+  - Why they'd pay: Creators need a clear way to explain deliverables, relevance and what the sponsor will actually receive. Why they'd come back: Each sponsor, campaign and audience update needs a tailored proposal.
+  - Offer around it: The Clear Creator Partnership Kit: the builder, proposal templates, negotiation lessons and agreement reviews.
+  - Example: A niche newsletter partnership. Input: Verified readership data, relevant product. Output, "A specific proposal structure": Fit: Explain the real connection between audience and product; Deliver: Define placement, dates, review steps and disclosures; Measure: Offer agreed reporting without promising sales.
+  - Safeguard: Do not fabricate audience numbers, endorsements or results. Follow advertising disclosure rules and obtain contract review when needed.
+- **#41. Customer Research Synthesizer** (customer research, builder). Group consented interview notes into themes, evidence and unanswered questions. Helps people make product decisions from what people actually said.
+  - Why they'd pay: They have calls and notes but struggle to separate repeated evidence from a persuasive anecdote. Why they'd come back: Every interview and product test adds material that can confirm or challenge the current view.
+  - Offer around it: The Evidence-Led Offer System: the synthesizer, interview guides, analysis templates and research review sessions.
+  - Example: Reviewing five customer interviews. Input: Consented notes, exact quotes available. Output, "Keep evidence and interpretation separate": Theme: Group similar problems without changing their meaning; Evidence: Attach the actual quotes and source identifiers; Unknown: List questions the interviews did not answer.
+  - Safeguard: Protect participant identity and consent. Do not invent quotes, treat a small sample as representative or upload confidential notes without permission.
+- **#42. Membership Onboarding Builder** (communities & memberships, planner). Turn a member's goal into a short first-use path through the community and tools. Helps people help new members experience value before they get lost in the library.
+  - Why they'd pay: An impressive resource collection means little if the new member doesn't know where to start. Why they'd come back: Member goals and onboarding feedback guide new paths and improvements.
+  - Offer around it: The First Useful Win System: the builder, onboarding templates, activation lessons and member-experience reviews.
+  - Example: A new member of a creator community. Input: Goal: plan next week's content. Output, "A three-step first-use path": Start: Complete a brief goal and context check; Use: Build one week of content with the included tool; Connect: Share the draft for optional, specific feedback.
+  - Safeguard: Track only necessary, consented usage. Activation is not guaranteed retention or transformation.
+- **#43. Client Handoff & Referral Kit** (client experience, checklist). Turn a completed project into a usable handoff, follow-up plan and optional referral request. Helps people finish delivery in a way that helps the client keep using the work.
+  - Why they'd pay: A project can be technically complete while the client still feels unsure how to operate or maintain it. Why they'd come back: Every completed engagement needs a fresh handoff and appropriate follow-up.
+  - Offer around it: The Finish Well Client System: the builder, handoff templates, walkthrough scripts and delivery-quality reviews.
+  - Example: A completed website project. Input: Client approval received, assets ready. Output, "A useful handoff checklist": 1. Confirm agreed acceptance tests and unresolved items. 2. Provide ownership, access and maintenance instructions securely. 3. Record support boundaries and an agreed follow-up date.
+  - Safeguard: Do not expose credentials or request misleading endorsements. Obtain permission before publishing client names, feedback or results.
+
+### Health and fitness (15)
+
+- **#44. Weekly Meal Planner** (nutrition & home cooking, planner). Build a practical menu and shopping list around the way a household actually eats. Helps people answer "what's for dinner?" before the busy week starts.
+  - Why they'd pay: They want fewer last-minute takeaways and fewer ingredients that go unused, without learning a complicated food system. Why they'd come back: The household's schedule, food preferences and ingredients change every week.
+  - Offer around it: The Easier Dinner System: the planner, your recipe library, prep lessons and a weekly planning routine.
+  - Example: Quick family dinners. Input: 4 people, 30 minutes, no peanuts. Output, "Three dinners, shared ingredients": Mon: Chicken rice bowls with peppers; Tue: Bean tacos with tomato salsa; Wed: Roast vegetable & chickpea tray.
+  - Safeguard: Educational meal planning, not medical nutrition advice. Verify ingredients and allergen safety; clinical diets need qualified guidance.
+- **#45. Workout Routine Builder** (fitness & strength, planner). Match a training routine to available equipment, experience and weekly availability. Helps people walk into each session knowing what to do.
+  - Why they'd pay: A realistic routine feels easier to follow than copying a demanding plan built for someone else's life. Why they'd come back: Workout logs and changing availability help a qualified coach adjust the next training block.
+  - Offer around it: The Consistent Strength System: the builder, exercise demonstrations, training logs and qualified coach check-ins.
+  - Example: A beginner at home. Input: 2 days/week, bodyweight, general fitness. Output, "Sample session structure": Warm up: Easy movement and comfortable range of motion; Practice: Chair squat, wall push-up and supported row; Review: Record effort and any discomfort for your coach.
+  - Safeguard: Illustrative structure, not individualized exercise prescription. Screen limitations and seek qualified guidance for pain, injury, pregnancy or medical conditions.
+- **#46. Evening Routine Planner** (sleep habits, planner). Fit a simple wind-down routine around a person's evening constraints. Helps people make bedtime less of a last-minute negotiation.
+  - Why they'd pay: They want a manageable routine that accounts for work, family and tomorrow's responsibilities. Why they'd come back: A brief routine log helps them notice what is realistic and adjust without chasing a perfect evening.
+  - Offer around it: The Calmer Evening Practice: the planner, sleep-habit education, routine templates and weekly reflection.
+  - Example: An early workday tomorrow. Input: Target wind-down 9:30 pm, early start. Output, "An evening with fewer decisions": Prepare: Set out tomorrow's essentials; Unwind: Choose a quiet activity you enjoy; Review: Note what helped and what got in the way.
+  - Safeguard: General habit education, not treatment for insomnia or other sleep disorders. Persistent sleep problems warrant professional assessment.
+- **#47. Running Session Planner** (recreational running, planner). Turn available days and a coach-approved goal into a manageable training week. Helps people know the purpose of the next session.
+  - Why they'd pay: They want a plan that fits their actual week rather than a demanding schedule they keep abandoning. Why they'd come back: Availability, recovery notes and coach feedback change the following week.
+  - Offer around it: The Consistent Runner System: the planner, pacing lessons, session logs and qualified coach reviews.
+  - Example: Getting back into a routine. Input: Coach-approved return, two available days. Output, "A gentle weekly structure": Day 1: Use the walk-run session agreed with your coach; Between: Record comfort, effort and recovery; Day 2: Repeat or adjust only within the agreed plan.
+  - Safeguard: Not an individualized training prescription. Pain, illness or a return after injury requires appropriate professional guidance.
+- **#48. Walking Habit Builder** (everyday movement, planner). Find realistic walking opportunities around a person's existing schedule. Helps people make movement fit the day they already have.
+  - Why they'd pay: A generic step target doesn't solve their real problem: finding a convenient time, route and fallback. Why they'd come back: Weather, workload and energy change, so the habit needs a flexible weekly reset.
+  - Offer around it: The Everyday Movement Practice: the builder, habit lessons, route-planning prompts and supportive check-ins.
+  - Example: A busy office day. Input: Lunch break, nearby indoor option. Output, "An easy-to-start routine": Anchor: Take a short comfortable walk after lunch; Fallback: Use an accessible indoor route in bad weather; Review: Note whether the timing felt practical.
+  - Safeguard: Adapt to accessibility, weather and personal limitations. This is habit support, not a medical exercise prescription.
+- **#49. Desk Break Builder** (desk workers & remote work, planner). Turn a meeting-heavy calendar into short, optional movement and rest breaks. Helps people notice when they have been sitting or focusing for too long.
+  - Why they'd pay: They want practical prompts that fit between calls, not another ambitious wellness routine. Why they'd come back: Workdays differ, and a useful break schedule adapts to the calendar.
+  - Offer around it: The Better Desk Day Kit: the builder, workstation education, break templates and routine reviews.
+  - Example: A morning of video calls. Input: Three meetings, five-minute gaps. Output, "A realistic break pattern": Between: Stand or change position if comfortable; Pause: Look away from the screen and relax your focus; Prepare: Keep the next call's essentials within reach.
+  - Safeguard: General workplace wellbeing only. Persistent pain, visual symptoms or accessibility needs deserve qualified assessment.
+- **#50. Habit Experiment Tracker** (behavior change, builder). Turn a vague goal into a small experiment with a trigger, fallback and review. Helps people learn what makes a habit easier to repeat.
+  - Why they'd pay: They keep starting over after one imperfect day. An experiment gives them something to adjust instead of a score to fail. Why they'd come back: Each review reveals friction and creates the next manageable version of the habit.
+  - Offer around it: The Small Changes System: the tracker, your behavior framework, experiment templates and accountability check-ins.
+  - Example: Remembering a daily reflection. Input: Goal: a short reflection after dinner. Output, "A seven-day experiment": Trigger: After putting the dishes away; Action: Write one sentence about the day; Review: Which evenings made the habit easier?
+- **#51. Appointment Prep Companion** (healthcare appointment preparation, builder). Organize a person's concerns and questions into a concise appointment note. Helps people use their appointment time without forgetting the important question.
+  - Why they'd pay: They may remember details afterward that they wanted to discuss in the room. Why they'd come back: New appointments, follow-up instructions and changing questions create a continuing practical use.
+  - Offer around it: The Prepared Patient Toolkit: the companion, question templates, record-organizing lessons and navigation support.
+  - Example: Discussing a recurring concern. Input: Patient-written notes, routine appointment. Output, "A clear discussion note": Concern: Describe the change in your own words; Context: Record when it started and how it affects daily life; Questions: What should I watch for, and when should I follow up?
+  - Safeguard: Organizes information without diagnosing, triaging or changing treatment. Urgent concerns need appropriate medical services. Minimize sensitive data and protect access.
+- **#52. Symptom Timeline Builder** (personal health records, planner). Put self-recorded observations into a dated timeline for a clinician to review. Helps people describe what happened without relying on memory.
+  - Why they'd pay: Scattered notes make it hard to explain timing, duration and impact during a consultation. Why they'd come back: The record becomes more useful as relevant observations are added and reviewed by a professional.
+  - Offer around it: The Clear Health Notes Kit: the timeline, logging templates, appointment-prep lessons and record-guidance.
+  - Example: Organizing existing notes. Input: Three observations, no diagnosis. Output, "A neutral timeline format": Date: Record the date and approximate time; Observed: Describe what you noticed without interpreting it; Impact: Note duration and effects on ordinary activities.
+  - Safeguard: Not diagnostic, emergency monitoring or treatment advice. Sensitive health records require consent, secure storage and clear deletion controls.
+- **#53. Caregiver Handoff Builder** (family caregiving, checklist). Turn an agreed care routine into a clear handoff between authorized caregivers. Helps people avoid losing practical details when responsibility changes.
+  - Why they'd pay: Families need a shared understanding of today's tasks without repeatedly retelling the whole situation. Why they'd come back: Shifts, appointments and care instructions change, making each handoff useful.
+  - Offer around it: The Clear Care Handoff System: the builder, consent-aware templates, coordination lessons and qualified navigation support.
+  - Example: A family member taking over. Input: Care recipient agrees, existing care plan. Output, "Before the next handoff": 1. Confirm today's schedule from the approved care plan. 2. Share completed tasks and unresolved practical needs. 3. Confirm the responsible contact and escalation instructions.
+  - Safeguard: Does not create or alter clinical instructions or medication schedules. Share only with consent and authorized caregivers; emergencies require medical services.
+- **#54. Postpartum Support Planner** (new-parent support, planner). Turn offers of help into specific, consent-based household support tasks. Helps people ask for practical help without having to coordinate everything.
+  - Why they'd pay: "Let me know if you need anything" leaves a tired parent doing the planning. Specific tasks are easier to accept. Why they'd come back: Needs and availability change, so the support plan can be adjusted together.
+  - Offer around it: The Supported Start Kit: the planner, request templates, household checklists and qualified postpartum resources.
+  - Example: Family offering help. Input: New parents opt in, first weeks at home. Output, "Useful offers with clear boundaries": Food: Arrange an approved meal drop-off time; Home: Offer laundry or a grocery pickup; Visits: Ask what timing and length feel welcome.
+  - Safeguard: Household coordination, not postpartum medical or mental-health care. Concerning symptoms require prompt professional support.
+- **#55. Pantry-to-Recipe Builder** (food waste & home cooking, builder). Turn ingredients already on hand into a practical cooking idea and a short missing-items list. Helps people use what they bought before planning another shop.
+  - Why they'd pay: They have food in the kitchen but can't see how it adds up to dinner. Why they'd come back: The available ingredients change with every shop, meal and leftover.
+  - Offer around it: The Use What You Have Kitchen: the builder, flexible cooking lessons, substitution guides and weekly kitchen resets.
+  - Example: Vegetables and a few staples. Input: Carrots, lentils, canned tomatoes. Output, "A simple meal direction": Make: A carrot and lentil soup; Check: Confirm you have suitable stock and seasonings; Use next: Save uncooked carrots for another meal.
+  - Safeguard: Check allergies, food condition and safe storage. Never infer that questionable food is safe from a photo or a recipe suggestion.
+- **#56. Recipe Portion Calculator** (home cooking & meal prep, calculator). Scale ingredient quantities to the number of portions someone actually needs. Helps people cook the right amount without mental arithmetic.
+  - Why they'd pay: Recipes rarely match their household size or the servings they want to prepare. Why they'd come back: Every change in portions or recipe creates another quick use.
+  - Offer around it: The Flexible Recipe Kit: the calculator, scaling lessons, tested recipes and cooking support.
+  - Example: Scaling a pasta recipe. Input: Original: 4 servings, target: 6. Output, "Multiply each ingredient by 1.5": Pasta: 400 g > 600 g; Tomatoes: 600 g > 900 g; Olive oil: 20 ml > 30 ml.
+  - Safeguard: Scaling is arithmetic, not a cooking-safety check. Cooking time, seasoning and equipment may not scale linearly.
+- **#57. Outdoor Trip Readiness Checklist** (hiking & outdoor recreation, checklist). Turn an outing plan into a packing, conditions and communication checklist. Helps people spot missing preparation before leaving home.
+  - Why they'd pay: They want one useful list for their actual outing instead of sorting through a generic gear guide. Why they'd come back: Routes, weather, companions and seasons make each trip different.
+  - Offer around it: The Prepared Day Out System: the checklist, outdoor planning lessons, gear templates and expert review for unfamiliar trips.
+  - Example: A local day hike. Input: Known marked route, returning the same day. Output, "Before you leave": 1. Check current weather, route status and daylight. 2. Pack suitable essentials for conditions and personal needs. 3. Share the route and return plan with a trusted person.
+  - Safeguard: Not a live weather, navigation or emergency service. Verify conditions with authoritative local sources and use qualified guidance for hazardous terrain.
+- **#58. Activity Adaptation Builder** (inclusive recreation, builder). Turn a group activity and stated access needs into options to discuss with participants. Helps people include people in the planning instead of guessing for them.
+  - Why they'd pay: Organizers want a practical starting point that respects individual preferences without treating one adaptation as universal. Why they'd come back: Each event and participant group brings different requests and feedback.
+  - Offer around it: The Inclusive Activity Toolkit: the builder, facilitation lessons, access checklists and lived-experience-led reviews.
+  - Example: A mixed-mobility group. Input: Participants share preferences, social games. Output, "Offer participation choices": Ask: Which movements, positions or breaks feel suitable?; Adapt: Offer seated and standing ways to participate; Check: Let people change options without explaining why.
+  - Safeguard: Participants define their own needs. These are discussion options, not clinical recommendations or accessibility compliance certification.
+
+### Relationships and life (22)
+
+- **#59. Bible Study Companion** (bible study & faith, builder). Turn a passage into context, reflection questions and one practical next step. Helps people build a study rhythm with understanding and application.
+  - Why they'd pay: They want to open their Bible with a clear place to start rather than feel lost or rush through a reading plan. Why they'd come back: Each passage creates a new study, and saved reflections make personal growth easier to revisit.
+  - Offer around it: The Daily Scripture Practice: the companion, your study method, reading plans and a pastor-led or community discussion space.
+  - Example: A personal morning study. Input: James 1:19 to 27, 10 minutes. Output, "Read. Reflect. Respond.": Observe: How does the passage connect hearing and doing?; Reflect: Where do I need to listen before reacting?; Apply: Choose one conversation to approach patiently.
+  - Safeguard: Show passage references and translation sources. Separate text, interpretation and application; ground guidance in the teacher's stated theological tradition.
+- **#60. Couples Check-in Planner** (marriage & connection, builder). Give couples a calm structure for a weekly conversation they both participate in. Helps people make room for connection beyond household logistics.
+  - Why they'd pay: They care about the relationship but everyday conversations keep becoming schedules, chores and unfinished disagreements. Why they'd come back: A short weekly check-in creates an ongoing place for appreciation, requests and follow-through.
+  - Offer around it: The Weekly Connection Practice: the planner, communication lessons, shared exercises and optional qualified facilitation.
+  - Example: A busy week together. Input: Both partners opt in, 20 minutes. Output, "Tonight's check-in": Appreciate: What is one thing you appreciated this week?; Understand: What felt heavy, and what support would help?; Agree: Choose one small thing to do together this week.
+  - Safeguard: Not therapy or crisis support. Joint exercises are not appropriate where abuse, coercion or safety concerns are present. Use consent and private-by-default data handling.
+- **#61. Family Routine Builder** (parenting & family life, planner). Turn a recurring family bottleneck into an age-appropriate routine everyone can see. Helps people spend less energy repeating what happens next.
+  - Why they'd pay: Mornings and bedtime feel harder when the plan only lives in one parent's head. Why they'd come back: Routines change with school terms, ages and family responsibilities.
+  - Offer around it: The Calmer Family Routine: the builder, visual routine templates, parent scripts and guided weekly reviews.
+  - Example: A rushed school morning. Input: School-age child, morning transition. Output, "A simple visual routine": First: Get dressed and put pajamas away; Next: Breakfast, then brush teeth; Ready: Check bag together and put on shoes.
+  - Safeguard: Adapt to each child's age, disability, sensory needs and development. No child profiling or medical diagnosis.
+- **#62. Dating Profile & Practice Tool** (dating & confidence, builder). Help someone describe themselves honestly and rehearse respectful conversations. Helps people show their personality without performing a fake persona.
+  - Why they'd pay: They know who they are, but writing about themselves or starting a conversation feels awkward. Why they'd come back: They can revise their profile, reflect on experiences and practice setting boundaries.
+  - Offer around it: The Genuine Connection Practice: the tool, communication lessons, profile examples and thoughtful feedback.
+  - Example: A specific profile introduction. Input: Enjoys hiking, cooking and quiet weekends. Output, "An honest profile direction": Opening: My ideal Saturday starts on a trail and ends in my kitchen; Detail: Currently learning to make pasta that isn't too thick; Invite: What's a small thing you're looking forward to?
+  - Safeguard: No impersonation, manipulation or automated messaging. Don't upload another person's private messages without permission.
+- **#63. Screen-Free Family Planner** (family activities, planner). Build a realistic menu of offline activities and shared device agreements. Helps people have something ready when the default would be another screen.
+  - Why they'd pay: "Less screen time" is hard to act on without alternatives that fit the child, the parent and the day. Why they'd come back: Weather, school holidays, ages and family energy change the available options.
+  - Offer around it: The More Present Family Practice: the planner, activity library, conversation scripts and family review prompts.
+  - Example: A rainy weekend indoors. Input: Two children, low-prep, indoors. Output, "Three offline options": Make: Build a cardboard town from recycling; Move: Create a gentle indoor movement game; Connect: Cook a simple snack together.
+  - Safeguard: Build agreements with the family, not surveillance or punitive scoring. Adapt to accessibility and developmental needs.
+- **#64. Volunteer & Outreach Planner** (churches & nonprofits, planner). Turn an event into defined roles, shift needs and a respectful outreach plan. Helps people coordinate people without losing details across message threads.
+  - Why they'd pay: Community leaders want to spend less time chasing logistics and more time serving the people the event is for. Why they'd come back: Every event brings new availability, roles and follow-up needs.
+  - Offer around it: The Ready-to-Serve System: the planner, role templates, volunteer onboarding and coordinator training.
+  - Example: A community meal. Input: Saturday event, volunteer roles. Output, "A first staffing plan": Prepare: Assign food prep and confirm training requirements; Welcome: Assign arrival support and accessibility contact; Close: Assign cleanup, supplies and a coordinator check-in.
+  - Safeguard: Protect volunteer information and follow safeguarding, accessibility and local safety requirements. No automatic outreach is sent.
+- **#65. Friendship Follow-up Planner** (friendship & social connection, planner). Turn good intentions into small, personal invitations and follow-ups. Helps people keep important friendships from disappearing between busy weeks.
+  - Why they'd pay: They care about people but struggle to turn "we should catch up" into a concrete invitation. Why they'd come back: Life changes, replies and shared interests create new reasons to reconnect.
+  - Offer around it: The Stay Connected Practice: the planner, invitation prompts, reflection exercises and gentle accountability.
+  - Example: Reconnecting with an old friend. Input: You know each other, no recent catch-up. Output, "A low-pressure next step": Recall: Choose a genuine shared memory or interest; Invite: Suggest one specific, easy way to catch up; Respect: Leave room for a no or a different time.
+  - Safeguard: No automated outreach, contact harvesting or relationship scoring. Keep notes private and respect nonresponse.
+- **#66. Date Night Builder** (couples & shared experiences, planner). Match a couple's time, budget and preferences to a shared activity plan. Helps people spend time together without one person doing all the planning.
+  - Why they'd pay: They want an enjoyable evening, but deciding what to do becomes another task. Why they'd come back: Budgets, energy and interests change, making the tool useful for recurring plans.
+  - Offer around it: The Intentional Time Together Kit: the builder, activity library, conversation prompts and shared reflection.
+  - Example: An evening at home. Input: Both opt in, low budget, no childcare. Output, "A simple shared evening": Prepare: Choose a meal you both enjoy making; Connect: Pick a conversation prompt together; Finish: Choose a film, game or music without multitasking.
+  - Safeguard: Activity ideas, not live availability or bookings. Respect preferences, consent and relationship safety.
+- **#67. Difficult Conversation Rehearsal** (communication skills, builder). Turn a concern into a clear opening, listening question and specific request. Helps people say what matters without turning the conversation into an attack.
+  - Why they'd pay: They know what upset them but want help expressing it clearly before the real discussion. Why they'd come back: Different situations create new practice, reflection and feedback needs.
+  - Offer around it: The Clear Conversation Practice: the rehearsal tool, communication lessons, scripts and qualified facilitation.
+  - Example: A friend cancels repeatedly. Input: Goal: discuss the pattern respectfully. Output, "A grounded opening": Observe: Our last two plans were canceled on the day; Explain: I find it hard to plan around last-minute changes; Ask: Could we choose a way to make plans that works for both of us?
+  - Safeguard: Rehearsal is not therapy, legal advice or a safety plan. Do not recommend direct confrontation where abuse, coercion or danger is present.
+- **#68. Co-parenting Calendar Builder** (co-parenting logistics, planner). Put an existing agreed arrangement into a clear calendar and handoff checklist. Helps people reduce avoidable confusion about practical arrangements.
+  - Why they'd pay: Important details can get lost in long message threads, especially around school events and schedule changes. Why they'd come back: School terms, activities and agreed exceptions require continuing coordination.
+  - Offer around it: The Clear Family Calendar Kit: the builder, neutral message templates, shared checklists and qualified coordination resources.
+  - Example: A school-week handoff. Input: Existing agreement, adults confirm details. Output, "Clarify the practical details": Time: Record the already-agreed handoff time and place; Pack: List school materials and agreed essentials; Confirm: Ask the responsible adult to confirm changes.
+  - Safeguard: Does not create custody arrangements or replace court orders, legal advice or safeguarding procedures. Protect children's location and personal information.
+- **#69. Wedding Timeline Builder** (weddings & event planning, planner). Turn confirmed ceremony times and vendor requirements into a realistic event-day timeline. Helps people see the handoffs before everyone is asking what happens next.
+  - Why they'd pay: They want a plan that accounts for travel, setup and real vendor constraints rather than a generic schedule. Why they'd come back: Vendor updates and planning milestones require revisions before the event.
+  - Offer around it: The Calm Wedding Day System: the timeline, planning templates, walkthrough lessons and coordinator review.
+  - Example: A single-venue wedding. Input: Ceremony 3 pm, venue and vendors confirmed. Output, "A draft to review with vendors": 1:30 pm: Confirm setup and preparation are on track; 2:30 pm: Assigned helpers prepare to welcome guests; 3:00 pm: Ceremony begins at the confirmed time.
+  - Safeguard: Illustrative planning only. Confirm timings, travel, contracts, permissions and contingencies with the actual vendors.
+- **#70. Wedding Budget Splitter** (wedding finances, calculator). Turn a total spending cap into visible category allowances and a reserve. Helps people agree on the money before committing to suppliers.
+  - Why they'd pay: Couples want to make trade-offs together without losing track of how deposits add up. Why they'd come back: Quotes, guest counts and paid amounts change throughout planning.
+  - Offer around it: The Wedding Money Map: the calculator, budgeting lessons, vendor comparison sheets and planning reviews.
+  - Example: A $20,000 spending cap. Input: 60% venue & food, 30% other, 10% reserve. Output, "Illustrative allocation, not local pricing": Venue & food: $12,000; Other categories: $6,000; Reserve: $2,000.
+  - Safeguard: Example allocations are not recommended spending or vendor quotes. Include applicable taxes, fees and all known commitments.
+- **#71. Family Story Interview Builder** (family history, builder). Turn a person's life chapter into respectful interview questions and a keepsake outline. Helps people capture family stories before details are forgotten.
+  - Why they'd pay: They want a meaningful record but don't know how to begin beyond asking someone to tell their life story. Why they'd come back: Each conversation reveals another period, photograph or memory to explore.
+  - Offer around it: The Family Stories Project: the builder, recording guides, keepsake templates and editing support.
+  - Example: An interview about childhood. Input: Relative agrees, memories they want to share. Output, "Questions with room for stories": Place: What do you remember about the home you grew up in?; People: Who made an ordinary day feel special?; Memory: Is there a small moment you still remember clearly?
+  - Safeguard: Obtain consent for recording and sharing. Allow skipped topics, protect sensitive history and never invent biographical details.
+- **#72. New City Connection Planner** (relocation & belonging, planner). Turn interests and availability into a small plan for meeting people after a move. Helps people find a starting point beyond hoping friendships happen.
+  - Why they'd pay: Moving creates a social reset, and a manageable plan feels less intimidating than a list of random events. Why they'd come back: Experiences help refine which recurring groups and activities feel like a good fit.
+  - Offer around it: The Find Your People Practice: the planner, community-research prompts, invitation scripts and reflection support.
+  - Example: A recent move. Input: Enjoys reading, one free evening. Output, "A practical first experiment": Find: Look for a local recurring book discussion; Verify: Check access, schedule and organizer details; Try: Attend once with no pressure to commit.
+  - Safeguard: Suggestions are not verified events or introductions. Check organizers and protect personal information when meeting new people.
+- **#73. Household Chore Splitter** (shared household management, planner). Turn an invisible task list into responsibilities people agree to own. Helps people make household work easier to see and discuss.
+  - Why they'd pay: Frustration grows when remembering and delegating every task becomes another person's unpaid job. Why they'd come back: Workloads, schedules and household needs change, so the division needs regular review.
+  - Offer around it: The Shared Home System: the tool, workload discussion guides, routine templates and household check-ins.
+  - Example: Two adults sharing a home. Input: Both contribute preferences, weekly review. Output, "A draft to agree together": List: Include planning, restocking and cleanup; Assign: Agree who owns each task and what finished means; Review: Check whether the workload felt manageable.
+  - Safeguard: Facilitates agreement, not surveillance, punishment or claims of mathematically fair relationships.
+- **#74. Roommate Agreement Builder** (shared living, builder). Turn housemate preferences into a plain-language discussion draft. Helps people agree on everyday expectations before resentment builds.
+  - Why they'd pay: Rent, guests, noise and cleaning are easier to discuss clearly before a conflict. Why they'd come back: New roommates, changed schedules and recurring issues create reasons to review the agreement.
+  - Offer around it: The Easier Shared Home Kit: the builder, conversation prompts, expense templates and review checklists.
+  - Example: Moving in together. Input: Two adult roommates, preferences not yet agreed. Output, "Discuss the essentials": Money: How will shared bills be tracked and settled?; Space: What expectations do you each have about guests and noise?; Review: When will you revisit what is and isn't working?
+  - Safeguard: Discussion aid, not a legal lease or substitute for tenant-rights advice. All terms require voluntary agreement and compliance with applicable rules.
+- **#75. Prayer Journal Companion** (prayer & spiritual reflection, builder). Organize personal prayer requests, reflections and follow-up in a private journal. Helps people make space for a thoughtful prayer practice.
+  - Why they'd pay: They want a simple structure that helps them remember what they wanted to pray about and reflect on over time. Why they'd come back: New requests and life experiences create ongoing, personal use.
+  - Offer around it: The Intentional Prayer Practice: the companion, teacher-created prompts, Scripture-linked reflections and optional community support.
+  - Example: A quiet personal reflection. Input: Private journal, five minutes. Output, "A simple reflection structure": Gratitude: What are you thankful for today?; Concern: What would you like to bring into prayer?; Response: Is there a practical act of care you can take?
+  - Safeguard: Never claim divine authority, predict outcomes or guarantee spiritual results. Protect private requests and distinguish Scripture from generated reflection.
+- **#76. Small-Group Session Builder** (faith communities & study groups, planner). Turn an approved reading and group goal into a facilitated session outline. Helps people lead a thoughtful discussion without preparing from scratch.
+  - Why they'd pay: Volunteer leaders want structure while leaving room for the people in the room. Why they'd come back: Each passage, topic and group experience creates a fresh session.
+  - Offer around it: The Prepared Group Leader Kit: the builder, facilitation lessons, approved study resources and mentor support.
+  - Example: A Bible discussion group. Input: Philippians 2:1 to 11, leader reviews interpretation. Output, "A simple session flow": Open: Read the passage in the group's chosen translation; Discuss: What does the passage say about humility?; Apply: Invite one voluntary reflection on the coming week.
+  - Safeguard: Use the community's approved theological resources. Protect personal disclosures and allow participants to pass on any question.
+- **#77. Boundary Script Builder** (personal boundaries, builder). Turn a situation and a personal limit into a clear, respectful response. Helps people say what they can and cannot do without overexplaining.
+  - Why they'd pay: They often agree in the moment and resent the commitment later because they don't have words ready. Why they'd come back: New requests and repeated situations create useful practice opportunities.
+  - Offer around it: The Clear Limits Practice: the builder, communication lessons, reflection prompts and appropriate coaching support.
+  - Example: An extra unpaid work request. Input: Freelancer, work outside the agreed scope. Output, "A clear professional response": Acknowledge: I can see why you'd like to add that; Limit: It isn't included in our current scope; Option: I can quote it separately if you want to proceed.
+  - Safeguard: Not therapy or a safety plan. In coercive or abusive situations, seek appropriate support rather than relying on a direct script.
+- **#78. Bereavement Admin Companion** (practical support after loss, checklist). Organize a family's verified administrative tasks into a gentle, shareable checklist. Helps people handle necessary details without holding everything in their head.
+  - Why they'd pay: Grieving people may need practical structure and trusted help, not another information-heavy guide. Why they'd come back: The checklist remains useful as documents arrive, responsibilities change and completed tasks are recorded.
+  - Offer around it: The Practical Support After Loss Kit: the organizer, document checklists, delegation templates and qualified local signposting.
+  - Example: A family organizing immediate tasks. Input: Authorized person, local requirements to verify. Output, "Start with a small list": 1. Identify the authorized contact for official arrangements. 2. Record verified requirements from relevant local authorities. 3. Ask trusted people to take agreed practical tasks.
+  - Safeguard: Not grief therapy, probate advice or a universal legal checklist. Requirements vary; verify with appropriate professionals and protect sensitive documents.
+- **#79. Retirement Lifestyle Builder** (retirement & life transitions, planner). Turn personal priorities into a flexible weekly rhythm after leaving work. Helps people build a life with structure, connection and room to explore.
+  - Why they'd pay: Financial planning alone doesn't answer what a satisfying ordinary week might look like. Why they'd come back: Interests, responsibilities and experiences change as the person tests a new rhythm.
+  - Offer around it: The Next Chapter Practice: the builder, values exercises, activity experiments and peer discussion.
+  - Example: Recently retired. Input: Wants connection, learning and unstructured time. Output, "Try a balanced week": Connect: Arrange one recurring activity with other people; Learn: Choose a small project you genuinely want to explore; Leave: Keep space for rest and spontaneous plans.
+  - Safeguard: Lifestyle planning, not retirement investment, pension, tax or medical advice.
+- **#80. Family Reunion Planner** (family events, planner). Turn guest needs, a date and a spending cap into a coordinated gathering plan. Helps people bring people together without one person carrying every detail.
+  - Why they'd pay: They need help balancing logistics, accessibility and shared responsibilities. Why they'd come back: Annual gatherings and changing guest needs create recurring use.
+  - Offer around it: The Together Again Event Kit: the planner, RSVP templates, task lists and planning walkthroughs.
+  - Example: A one-day family gathering. Input: 20 guests, mixed ages, shared planning. Output, "A workable starting plan": Confirm: Collect availability and access or dietary needs privately; Assign: Agree on food, welcome and cleanup responsibilities; Share: Send one clear schedule and contact person.
+  - Safeguard: Do not expose guest contact details, allergies or travel plans. Verify venues, availability and costs before committing.
+
+### Skills and hobbies (20)
+
+- **#81. Dog Training Planner** (dog training, planner). Choose a training goal and get a short, repeatable practice routine. Helps people know what to practice with their dog today.
+  - Why they'd pay: A library of dog videos doesn't tell them which skill to work on next or how to keep sessions manageable. Why they'd come back: Training progresses from quiet rooms to new environments, with session notes shaping the next practice.
+  - Offer around it: The Everyday Dog Skills System: the planner, reward-based video demonstrations, a progress log and trainer feedback.
+  - Example: A puppy learning recall. Input: Puppy, quiet room, recall. Output, "A five-minute practice": Set up: Use a quiet space and a reward your dog likes; Practice: Say the cue once; reward coming toward you; Finish: End after a few easy successes.
+  - Safeguard: Use humane, reward-based methods. Fear, aggression and sudden behavior changes need a qualified trainer or veterinary professional.
+- **#82. Guitar Practice Builder** (music & guitar, planner). Build a focused practice session around the song or skill a player wants to learn. Helps people pick up the guitar with a plan instead of playing the same riff.
+  - Why they'd pay: They don't need another huge lesson library. They need a manageable next session that fits their current level. Why they'd come back: The routine changes as chord transitions, timing and repertoire improve.
+  - Offer around it: The Play Your Next Song System: the builder, teacher-created exercises, practice tracking and technique feedback.
+  - Example: A beginner with 15 minutes. Input: Beginner, chord changes, 15 min. Output, "Today's practice session": 3 min: Warm up slowly with clean single notes; 7 min: Alternate G and C with relaxed movement; 5 min: Play a familiar song section at an easy pace.
+- **#83. Revit Sheet Setup Planner** (architecture & drafting, builder). Turn an approved sheet convention into a repeatable setup list for a project. Helps people start documentation with consistent names and fewer manual decisions.
+  - Why they'd pay: Repetitive setup work is easy to get wrong when naming rules and required sheets are scattered. Why they'd come back: Each new project and documentation stage needs a checked sheet list.
+  - Offer around it: The Consistent Documentation Kit: the planner, office-standard templates, setup walkthroughs and BIM review.
+  - Example: A small residential project. Input: Office convention: A-series architectural sheets. Output, "Illustrative sheet setup": A-001: Cover, drawing index and general notes; A-101: Ground-floor plan; A-201: Exterior elevations.
+  - Safeguard: Planning output only, not a Revit integration or permit-ready documentation. Apply the office's actual conventions and professional review.
+- **#84. Golf Practice Planner** (golf & recreation, planner). Turn a golfer's practice time and round notes into a focused session. Helps people practice a specific weakness instead of hitting balls without a plan.
+  - Why they'd pay: They want their limited practice time to relate to what actually happens on the course. Why they'd come back: Round notes identify the next skill to practice and help a coach review progress.
+  - Offer around it: The Purposeful Practice System: the planner, coach-created drills, session logs and swing or skills feedback.
+  - Example: A golfer with 30 minutes. Input: Round notes: poor distance control on putts. Output, "A putting-focused session": 5 min: Warm up with comfortable short putts; 15 min: Practice distance control to different targets; 10 min: Play a short putting game and record observations.
+  - Safeguard: General practice structure, not individualized swing or injury advice. Use qualified coaching for technique and adapt to physical limitations.
+- **#85. Language Conversation Coach** (language learning, builder). Turn a real-life situation into a short dialogue and feedback exercise. Helps people practice the conversation they actually expect to have.
+  - Why they'd pay: They know vocabulary but freeze when they need to use it in context. Why they'd come back: Travel, work and daily life provide a continuing stream of new practice situations.
+  - Offer around it: The Speak in Context System: the practice tool, teacher-reviewed dialogues, pronunciation resources and feedback sessions.
+  - Example: Ordering in Spanish. Input: Beginner, café, polite request. Output, "A short practice exchange": You: Quisiera un café, por favor; Partner: ¿Con leche o solo?; Practice: Choose an answer, then repeat the full exchange.
+  - Safeguard: Text examples only; no live speech assessment. Have qualified speakers review language and context before educational release.
+- **#86. Exam Revision Planner** (students & exam preparation, planner). Turn a syllabus, deadlines and available sessions into a revision plan. Helps people spend study time on identified gaps rather than rereading everything.
+  - Why they'd pay: They need help deciding what to review next when the workload feels larger than the time available. Why they'd come back: Practice results reveal weak areas and reshape the following sessions.
+  - Offer around it: The Study With a Plan System: the planner, retrieval-practice lessons, topic templates and tutor check-ins.
+  - Example: Two weeks before an exam. Input: Teacher-approved syllabus, three weak topics. Output, "A focused next session": Recall: Attempt questions without looking at notes; Check: Compare with approved answers and identify gaps; Repeat: Schedule another attempt on the missed concepts.
+  - Safeguard: Support learning, not cheating. Do not obtain restricted exam material or promise grades.
+- **#87. Flashcard Builder** (memory & study skills, builder). Turn approved notes into focused question-and-answer cards a learner can review. Helps people practice recall without spending the whole evening formatting cards.
+  - Why they'd pay: They want useful practice material, not a giant stack of vague definitions. Why they'd come back: Every lesson, reading and incorrect answer can produce new cards or improvements.
+  - Offer around it: The Recall Practice Kit: the builder, card-writing lessons, review routines and teacher feedback.
+  - Example: A biology definition. Input: Source note: mitochondria produce ATP through cellular respiration. Output, "A focused recall card": Question: Which organelles are central to ATP production through cellular respiration?; Answer: Mitochondria; Check: Compare wording with your course's approved materials.
+  - Safeguard: Generated cards require source checking. Preserve context and avoid turning uncertain notes into authoritative facts.
+- **#88. Essay Argument Mapper** (academic writing, builder). Turn a question and a learner's own notes into an argument structure. Helps people see whether their evidence actually supports their point.
+  - Why they'd pay: They have material but struggle to connect a claim, supporting evidence and analysis. Why they'd come back: Each assignment and draft revision needs a fresh structure check.
+  - Offer around it: The Clear Argument Workshop: the mapper, writing lessons, annotated examples and tutor feedback.
+  - Example: Planning a literature essay. Input: Student's own reading notes, assigned question. Output, "Build the paragraph's logic": Claim: State the interpretation you intend to defend; Evidence: Select an accurate passage from the assigned text; Analysis: Explain how that passage supports your interpretation.
+  - Safeguard: Planning and feedback aid, not ghostwritten assessment. Follow institutional AI rules and never invent citations or quotations.
+- **#89. Piano Practice Builder** (piano & music education, planner). Turn a piece and a teacher's notes into a focused practice session. Helps people know which passage to work on instead of restarting the entire piece.
+  - Why they'd pay: They want to use limited practice time well without getting stuck repeating the same errors. Why they'd come back: Lessons and progress create new passages, goals and review notes.
+  - Offer around it: The Purposeful Piano Practice: the builder, teacher-created exercises, practice logs and lesson feedback.
+  - Example: A beginner learning a piece. Input: Teacher-selected passage, 15 minutes. Output, "Practice one small section": 3 min: Warm up comfortably with familiar material; 8 min: Work slowly on the assigned passage; 4 min: Connect it to the neighboring phrase and take notes.
+  - Safeguard: Use teacher-approved technique and stop if playing causes pain. No promised proficiency timeline.
+- **#90. Singing Practice Journal** (singing & voice lessons, builder). Turn a vocal lesson into a clear practice focus and observations for the next lesson. Helps people remember what the teacher asked them to work on.
+  - Why they'd pay: Vague practice instructions are hard to follow and even harder to report back on. Why they'd come back: Every lesson and practice session adds useful context for the teacher.
+  - Offer around it: The Between-Lessons Voice Kit: the journal, coach-approved exercises, recordings with consent and teacher review.
+  - Example: After a singing lesson. Input: Teacher provides one exercise, student takes notes. Output, "A focused practice entry": Focus: Record the teacher's exact instruction; Observe: Note what felt comfortable or difficult; Ask: Save a specific question for the next lesson.
+  - Safeguard: No clinical voice diagnosis or unsafe vocal exercises. Pain, persistent hoarseness or voice loss requires appropriate professional guidance.
+- **#91. Photography Shot List Builder** (photography, checklist). Turn a shoot brief into a practical list of images, details and approvals. Helps people arrive knowing what the final deliverable needs.
+  - Why they'd pay: A good camera doesn't prevent missing the one image the client actually needed. Why they'd come back: Every client, location and intended use creates a new shot list.
+  - Offer around it: The Prepared Photographer Kit: the builder, briefing lessons, shot templates and portfolio critiques.
+  - Example: A café brand shoot. Input: Website photos, owner-approved brief. Output, "Cover the essential story": 1. Exterior and entrance that help customers recognize the place. 2. Staff, products and atmosphere with permission. 3. Required horizontal and vertical crops for the website.
+  - Safeguard: Secure subject, property and usage permissions. Do not use editing to misrepresent product features.
+- **#92. Home Studio Lighting Builder** (video & portrait production, builder). Turn a room description and available gear into a simple lighting setup to test. Helps people improve a recording setup before buying more equipment.
+  - Why they'd pay: They want to work with what they own instead of copying a studio that doesn't fit their space. Why they'd come back: Different rooms, times of day and shoot types need adjustments.
+  - Offer around it: The Better Home Recording Kit: the builder, lighting lessons, setup diagrams and video feedback.
+  - Example: A window-lit talking-head video. Input: One window, phone camera, small room. Output, "A practical setup to test": Position: Try facing partly toward the window; Control: Check exposure and distracting mixed light; Test: Record a short clip and review before the full take.
+  - Safeguard: Test safely, secure equipment and follow electrical and heat-safety instructions. No live image analysis is performed in these samples.
+- **#93. Sewing Project Planner** (sewing & crafts, checklist). Turn a chosen pattern into a materials list, preparation steps and sewing checkpoints. Helps people start a project with the right materials and fewer surprises.
+  - Why they'd pay: They don't want to discover missing notions or misunderstood instructions halfway through cutting. Why they'd come back: Each pattern, fabric and fit adjustment requires a fresh project plan.
+  - Offer around it: The Finish Your Sewing Project Kit: the planner, technique lessons, preparation templates and instructor feedback.
+  - Example: A beginner tote bag. Input: Approved pattern, fabric not yet cut. Output, "Prepare before cutting": 1. Read the full pattern and confirm material requirements. 2. Prepare suitable fabric and test a seam on a scrap. 3. Mark the pattern pieces and follow the cutting layout.
+  - Safeguard: Use the actual pattern's instructions and safety guidance. Do not distribute copyrighted patterns without permission.
+- **#94. Yarn Quantity Calculator** (knitting & crochet, calculator). Convert a pattern's yarn-length requirement into an estimated number of skeins. Helps people buy a sensible quantity before starting a project.
+  - Why they'd pay: Different yarn labels and skein sizes make substitutions confusing. Why they'd come back: Every pattern and yarn substitution creates another calculation.
+  - Offer around it: The Confident Yarn Project Kit: the calculator, gauge lessons, project notes and maker support.
+  - Example: A 900-meter pattern. Input: Yarn label: 180 meters per skein. Output, "Round up to a whole skein": Required length: 900 m; Length per skein: 180 m; Minimum skeins: 5.
+  - Safeguard: Minimum arithmetic estimate only. Gauge, yarn properties, swatching, waste and dye lots may require extra yarn.
+- **#95. Woodworking Cut List Builder** (woodworking, builder). Turn an approved design's part dimensions into a labeled cut-list draft. Helps people keep parts, quantities and measurements organized before cutting.
+  - Why they'd pay: A clear list reduces confusion when a project has repeated pieces and several measurement types. Why they'd come back: Each new project and design revision needs an updated parts list.
+  - Offer around it: The Organized Workshop Kit: the builder, measurement lessons, project templates and experienced-maker review.
+  - Example: Organizing a shelf design. Input: Approved plan, dimensions supplied by maker. Output, "A draft parts register": Sides: 2 pieces, use the plan's finished dimensions; Shelves: 3 pieces, confirm thickness and joinery allowances; Review: Verify units, grain direction and dimensions before cutting.
+  - Safeguard: Not a structural design or machine-safety system. Verify every measurement and use trained supervision and appropriate workshop safety.
+- **#96. Balcony Garden Planner** (small-space gardening, planner). Turn observed light, container space and local conditions into a planting shortlist. Helps people choose a manageable first garden for the space they actually have.
+  - Why they'd pay: They want to avoid buying plants based only on a beautiful picture. Why they'd come back: Seasons, plant growth and care observations shape the next planting cycle.
+  - Offer around it: The Small-Space Garden System: the planner, region-reviewed growing guides, care logs and gardener feedback.
+  - Example: A sunny small balcony. Input: Observed direct light, containers, local suitability to verify. Output, "Start with a small trial": Observe: Record actual light and exposure across the day; Choose: Ask a local nursery about suitable container plants; Plan: Check drainage, watering access and safe placement.
+  - Safeguard: Verify local climate, toxicity to pets or children, balcony load limits and building rules. This is not a structural assessment.
+- **#97. Houseplant Care Log** (indoor plants, builder). Turn plant observations into a clear care history and questions to investigate. Helps people stop changing several care variables without remembering what happened.
+  - Why they'd pay: They want a useful record rather than a rigid watering reminder that ignores the plant's conditions. Why they'd come back: Growth, seasons and changes in the room create ongoing observations.
+  - Offer around it: The Understand Your Plants Kit: the log, species-specific care resources, observation lessons and expert Q&A.
+  - Example: A plant moved to a new room. Input: Known plant identity, changed light. Output, "Track the adjustment": Record: Note the move date and observed light conditions; Observe: Describe visible changes without guessing the cause; Review: Consult reliable species-specific care guidance.
+  - Safeguard: Not a plant diagnosis from text alone. Verify species identity and safe handling, especially around children and pets.
+- **#98. Chess Review Companion** (chess improvement, builder). Turn a player's game notes into focused review questions and practice themes. Helps people learn from a game instead of only checking the result.
+  - Why they'd pay: They want to understand their decisions, not just receive an unexplained move suggestion. Why they'd come back: Every completed game provides new positions and recurring themes to review.
+  - Offer around it: The Learn From Your Games System: the companion, analysis lessons, training exercises and coach feedback.
+  - Example: A game with time-pressure mistakes. Input: Completed game, player notes available. Output, "Review your decision process": Find: Mark the moment your time use changed; Ask: What candidate moves did you consider?; Practice: Choose one decision habit to test next game.
+  - Safeguard: No live-game assistance or anti-cheating violations. Samples do not perform engine analysis; verify positions and moves.
+- **#99. Bread Formula Calculator** (bread baking, calculator). Convert baker's percentages into ingredient weights for a chosen flour amount. Helps people resize a familiar dough formula without guessing.
+  - Why they'd pay: They want the same ratios at a different batch size, with the calculation done clearly. Why they'd come back: Different batch sizes and formula experiments create repeat use.
+  - Offer around it: The Understand Your Dough Kit: the calculator, baking lessons, formula journal and baker feedback.
+  - Example: A 70% hydration formula. Input: Flour 500 g, water 70%, salt 2%. Output, "Ingredient weights from flour basis": Flour: 500 g; Water: 350 g; Salt: 10 g.
+  - Safeguard: Partial formula illustration, not a complete recipe. Leavening, fermentation, temperatures and food safety need a tested process.
+- **#100. Pottery Batch Cost Calculator** (ceramics & maker businesses, calculator). Split a batch's recorded production costs across the pieces that can actually be sold. Helps people see the cost of a finished piece rather than just the clay.
+  - Why they'd pay: Firing, glaze and unsuccessful pieces can disappear from a maker's mental pricing calculation. Why they'd come back: Every batch has different inputs, firing costs and sellable output.
+  - Offer around it: The Sustainable Studio Numbers Kit: the calculator, costing templates, pricing lessons and maker-business reviews.
+  - Example: A small mug batch. Input: Materials $80, firing $60, labor $160, 10 sellable. Output, "Illustrative cost per sellable piece": Recorded batch cost: $300; Sellable pieces: 10; Cost per piece: $30.
+  - Safeguard: Not a final selling price. Add unlisted overhead, fees, taxes, packaging and desired profit; verify costs from your records.
